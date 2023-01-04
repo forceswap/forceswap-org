@@ -1,0 +1,3 @@
+# forceSWAP
+
+`yarn && yarn start`
